@@ -13,3 +13,7 @@ Exemplo do projeto final :
 CSS Linear Gradient: 
 
 <img src="https://user-images.githubusercontent.com/100586435/170111633-e125ae82-0800-4ffe-8d36-5b208b20820c.gif" width="700" height="400">
+
+CSS Hover em um Card:
+
+<img src="https://user-images.githubusercontent.com/100586435/170112680-66d8fb68-4bb1-48d3-88c0-1de7d343cd46.gif" width="500" heigth="500">
