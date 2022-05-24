@@ -4,4 +4,12 @@
 
 Exemplo do projeto final :
   
-  ![indexcss](https://user-images.githubusercontent.com/100586435/170076703-7874665f-722b-48a3-932c-e8399c6180da.jpeg)
+  
+  
+  <img src="https://user-images.githubusercontent.com/100586435/170076703-7874665f-722b-48a3-932c-e8399c6180da.jpeg" width="560" height="700">
+
+<h2>Efeitos de CSS utilizados neste projeto: </h2>
+
+CSS Linear Gradient: 
+
+<img src="https://user-images.githubusercontent.com/100586435/170111633-e125ae82-0800-4ffe-8d36-5b208b20820c.gif">
