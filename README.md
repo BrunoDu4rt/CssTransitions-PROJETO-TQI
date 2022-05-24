@@ -12,4 +12,4 @@ Exemplo do projeto final :
 
 CSS Linear Gradient: 
 
-<img src="https://user-images.githubusercontent.com/100586435/170111633-e125ae82-0800-4ffe-8d36-5b208b20820c.gif">
+<img src="https://user-images.githubusercontent.com/100586435/170111633-e125ae82-0800-4ffe-8d36-5b208b20820c.gif" width="700" height="400">
